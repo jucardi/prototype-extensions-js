@@ -1,0 +1,26 @@
+{
+  "name": "juc-prototype-extensions-js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jucardi/prototype-extensions-js",
+  "authors": [
+    "jucardi <github@jucardi.com>"
+  ],
+  "description": "Library which adds extra functionalities to base javascript prototypes (Date, Number, String)",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "javascript",
+    "prototypes",
+    "extensions"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
